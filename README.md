@@ -2,11 +2,11 @@
 
 A responsive registration webpage built with Bootstrap 5, featuring a registration form, data table, image gallery, and responsive navigation.
 
-## 🚀 Demo
+## Instructions
 
 Simply open `index.html` in any modern web browser to view the page.
 
-## 📋 Features
+## Features
 
 - **Responsive Layout**: First Name and Last Name fields positioned side-by-side using Bootstrap grid
 - **Form Validation**: Email and Password fields with built-in validation
@@ -32,7 +32,7 @@ Simply open `index.html` in any modern web browser to view the page.
 - **Navigation Links**: Home, About, and Contact sections
 - **Bootstrap Styling**: Dark theme with proper utilities
 
-## 📦 Files
+## Files
 
 ```
 bootstrap-assignment/
@@ -84,3 +84,4 @@ Jake
 ---
 
 **Note**: This project uses placeholder images from `via.placeholder.com`. Replace these with your own images for production use.
+
